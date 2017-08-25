@@ -17,9 +17,9 @@ An outline of the projects I have worked on at Makers Academy and the key learni
 
 ### Technologies
 
-Ruby
-RSpec
-Git
+* Ruby
+* RSpec
+* Git
 
 ## Week 1
 
@@ -34,9 +34,9 @@ To use a test-driven approach to write object-oriented code
 
 ### Technologies
 
-Ruby
-RSpec
-Git
+* Ruby
+* RSpec
+* Git
 
 ## Week 2
 
@@ -51,10 +51,10 @@ To use a test-driven approach to write object-oriented code
 
 ### Technologies
 
-Ruby
-RSpec
-Git
-Twilio API
+* Ruby
+* RSpec
+* Git
+* Twilio API
 
 ## Week 3
 
@@ -74,13 +74,13 @@ To understand the anatomy of a web app including:
 
 ### Technologies
 
-Ruby
-RSpec
-Sinatra
-Capybara
-HTML
-CSS
-Bootstrap
+* Ruby
+* RSpec
+* Sinatra
+* Capybara
+* HTML
+* CSS
+* Bootstrap
 
 ## Week 4
 
@@ -98,15 +98,15 @@ To create user stories
 
 ### Technologies
 
-Ruby
-RSpec
-Sinatra
-PostgresQL
-DataMapper
-Capybara
-HTML
-CSS
-Bootstrap
+* Ruby
+* RSpec
+* Sinatra
+* PostgresQL
+* DataMapper
+* Capybara
+* HTML
+* CSS
+* Bootstrap
 
 ## Week 5
 
@@ -122,12 +122,12 @@ To create a test-driven object-oriented Javascript application
 
 ### Technologies
 
-Javascript
-Jasmine
-jQuery
-HTML
-CSS
-Bootstrap
+* Javascript
+* Jasmine
+* jQuery
+* HTML
+* CSS
+* Bootstrap
 
 ## Week 6
 
@@ -143,11 +143,11 @@ To create a testing-framework
 
 ### Technologies
 
-Javascript
-Guardian API
-HTML
-CSS
-Bootstrap
+* Javascript
+* Guardian API
+* HTML
+* CSS
+* Bootstrap
 
 ## Week 7
 
@@ -162,13 +162,14 @@ To exercise XP Values and Agile processes
 
 ### Technologies
 
-Node.js
-Express
-Sequelize
-Mocha
-Zombie
-Travis CI
-Git
+* Node.js
+* Express
+* Sequelize
+* Mocha
+* Zombie
+* Chai
+* Travis CI
+* Git
 
 ## Week 7
 
@@ -183,7 +184,7 @@ To exercise XP Values and Agile processes
 
 ### Technologies
 
-Ruby on Rails
-RSpec
-PostgresQL
-ActiveRecord
+* Ruby on Rails
+* RSpec
+* PostgresQL
+* ActiveRecord
