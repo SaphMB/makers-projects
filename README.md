@@ -188,3 +188,21 @@ To exercise XP Values and Agile processes
 * RSpec
 * PostgresQL
 * ActiveRecord
+
+## Week 8
+
+### Learning Objectives
+
+To work as part of a small team to create a programe, implementing the best practices learnt throughout the course.
+
+### Project
+
+* [Moody News](https://github.com/SaphMB/moody_news)
+
+### Technologies
+
+* Node.js
+* Express
+* Aylien API
+* Mocha
+* Zombie
