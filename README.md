@@ -167,10 +167,7 @@ To exercise XP Values and Agile processes
 * Sequelize
 * Mocha
 * Zombie
-<<<<<<< HEAD
 * Chai
-=======
->>>>>>> 3c43750e35715fea88fdeb692cce8f3246f74a81
 * Travis CI
 * Git
 
