@@ -86,10 +86,10 @@ To understand the anatomy of a web app including:
 
 ### Learning Objectives
 
-To build a test-driven web app that uses a database
-To understand object-relational database
-To manipulating data using the CRUD cycle
-To create user stories
+* To build a test-driven web app that uses a database
+* To understand object-relational database
+* To manipulating data using the CRUD cycle
+* To create user stories
 
 ### Projects
 
@@ -167,7 +167,10 @@ To exercise XP Values and Agile processes
 * Sequelize
 * Mocha
 * Zombie
+<<<<<<< HEAD
 * Chai
+=======
+>>>>>>> 3c43750e35715fea88fdeb692cce8f3246f74a81
 * Travis CI
 * Git
 
